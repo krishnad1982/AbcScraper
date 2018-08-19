@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbcScraper", "AbcScraper\AbcScraper.csproj", "{FBC81FF9-F00C-459C-9E02-C60787B4C62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbcScraper.Core", "AbcScraper.Core\AbcScraper.Core.csproj", "{6A0760A7-11BF-4074-84A5-4D60C061EAD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbcScraper.Test", "AbcScraper.Test\AbcScraper.Test.csproj", "{9EF7EFD2-1E91-409C-AE47-D7A23329237D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC81FF9-F00C-459C-9E02-C60787B4C62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC81FF9-F00C-459C-9E02-C60787B4C62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC81FF9-F00C-459C-9E02-C60787B4C62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC81FF9-F00C-459C-9E02-C60787B4C62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0760A7-11BF-4074-84A5-4D60C061EAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0760A7-11BF-4074-84A5-4D60C061EAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0760A7-11BF-4074-84A5-4D60C061EAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0760A7-11BF-4074-84A5-4D60C061EAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF7EFD2-1E91-409C-AE47-D7A23329237D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF7EFD2-1E91-409C-AE47-D7A23329237D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF7EFD2-1E91-409C-AE47-D7A23329237D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF7EFD2-1E91-409C-AE47-D7A23329237D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
